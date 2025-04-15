@@ -1,0 +1,16 @@
+.menu:hover .subMenu {
+  display: block;
+}
+
+.subMenu {
+  display: none;
+}
+
+.bg:hover {
+  background-color: rgb(3, 138, 255);
+  color: white;
+}
+
+.bg {
+  color: black;
+}
